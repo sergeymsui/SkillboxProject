@@ -1,0 +1,19 @@
+{
+  "name": "skillboxproject",
+  "version": "1.0.0",
+  "description": "SkillboxProject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergeymsui/SkillboxProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergeymsui/SkillboxProject/issues"
+  },
+  "homepage": "https://github.com/sergeymsui/SkillboxProject#readme"
+}
